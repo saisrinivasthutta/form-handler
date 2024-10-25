@@ -50,7 +50,7 @@ Ensure you have Node.js and npm installed:
 
 # Installation
 
-# Clone the repository:
+## Clone the repository:
 
 ## Install dependencies:
 
