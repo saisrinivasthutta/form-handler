@@ -24,29 +24,29 @@ Kindly Check out Published URL
 
 ## Features
 
-# Collects user information (Name, Email, Message) via a form.
+Collects user information (Name, Email, Message) via a form.
 
-# On submission, stores form data in context and navigates to a success page.
+On submission, stores form data in context and navigates to a success page.
 
-# Displays the submitted data on the success page.
+Displays the submitted data on the success page.
 
-# Back button on the success page to navigate back to the form.
+Back button on the success page to navigate back to the form.
 
-Technologies
+# Technologies
 
-# React - for building the user interface
+React - for building the user interface
 
-# React Router - for page navigation
+React Router - for page navigation
 
-# React Context - for state management
+React Context - for state management
 
-# React Icons - for input icons
+React Icons - for input icons
 
 ### Getting Started
 
 ## Prerequisites
 
-# Ensure you have Node.js and npm installed:
+Ensure you have Node.js and npm installed:
 
 # Installation
 
@@ -54,16 +54,16 @@ Technologies
 
 ## Install dependencies:
 
-# npm install
+npm install
 
-# npm start
+npm start
 
-# The app should now be running on http://localhost:3000.
+The app should now be running on http://localhost:3000.
 
 ## Usage
 
-# On the homepage, enter your name, email, and message, then submit the form.
+On the homepage, enter your name, email, and message, then submit the form.
 
-# After submitting, you will be redirected to a success page where you can see your entered information.
+After submitting, you will be redirected to a success page where you can see your entered information.
 
-# To return to the form page, click the "Go Back" button.
+To return to the form page, click the "Go Back" button.
