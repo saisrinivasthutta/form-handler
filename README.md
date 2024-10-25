@@ -20,7 +20,7 @@ A simple React application for handling user form submissions. Users can input t
 
 ## Demo
 
-Kindly Check out Published URL
+Kindly Check out Published URL https://671b8b5681a5f41409d48b3b--saisrinivas-form-handler.netlify.app/
 
 ## Features
 
@@ -51,6 +51,7 @@ Ensure you have Node.js and npm installed:
 # Installation
 
 ## Clone the repository:
+git clone https://github.com/saisrinivasthutta/form-handler
 
 ## Install dependencies:
 
